@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LSC.ResturantTableBookingApp.Core\LSC.ResturantTableBookingApp.Core.csproj" />
+    <ProjectReference Include="..\LSC.ResturantTableBookingApp.Data\LSC.ResturantTableBookingApp.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\controllers\\resturantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\controllers\\resturantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.core\\restaurantbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|solutionrelative:lsc.resturanttablebookingapp.core\\restaurantbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\resturanttablebookingapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB451A0E-6FAC-4A3B-A31B-D7A67B9EE769}|ResturantTableBookingApp.API\\LSC.ResturantTableBookingApp.API.csproj|solutionrelative:resturanttablebookingapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.core\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|solutionrelative:lsc.resturanttablebookingapp.core\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.core\\diningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|solutionrelative:lsc.resturanttablebookingapp.core\\diningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.data\\resturantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|solutionrelative:lsc.resturanttablebookingapp.data\\resturantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.data\\resturanttablebookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|solutionrelative:lsc.resturanttablebookingapp.data\\resturanttablebookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.core\\viewmodel\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|solutionrelative:lsc.resturanttablebookingapp.core\\viewmodel\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79803D4D-5519-4B1A-9E22-8293133D0FF2}|LSC.ResturantTableBookingApp.Service\\LSC.ResturantTableBookingApp.Service.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.service\\resturantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79803D4D-5519-4B1A-9E22-8293133D0FF2}|LSC.ResturantTableBookingApp.Service\\LSC.ResturantTableBookingApp.Service.csproj|solutionrelative:lsc.resturanttablebookingapp.service\\resturantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79803D4D-5519-4B1A-9E22-8293133D0FF2}|LSC.ResturantTableBookingApp.Service\\LSC.ResturantTableBookingApp.Service.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.service\\iresturantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79803D4D-5519-4B1A-9E22-8293133D0FF2}|LSC.ResturantTableBookingApp.Service\\LSC.ResturantTableBookingApp.Service.csproj|solutionrelative:lsc.resturanttablebookingapp.service\\iresturantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.data\\iresturantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|solutionrelative:lsc.resturanttablebookingapp.data\\iresturantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.core\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17B3A9-B251-48F9-8664-214676D54A70}|LSC.ResturantTableBookingApp.Core\\LSC.ResturantTableBookingApp.Core.csproj|solutionrelative:lsc.resturanttablebookingapp.core\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.data\\migrations\\resturanttablebookingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|solutionrelative:lsc.resturanttablebookingapp.data\\migrations\\resturanttablebookingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.data\\migrations\\20250113104419_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|solutionrelative:lsc.resturanttablebookingapp.data\\migrations\\20250113104419_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|f:\\dot-net-core-6\\lsc.resturanttablebookingapp\\lsc.resturanttablebookingapp.data\\migrations\\20250116105602_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633F1D3A-284C-4AB0-8D5C-88553496988E}|LSC.ResturantTableBookingApp.Data\\LSC.ResturantTableBookingApp.Data.csproj|solutionrelative:lsc.resturanttablebookingapp.data\\migrations\\20250116105602_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\appsettings.json",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\appsettings.json",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\appsettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCAAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T09:50:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\appsettings.Development.json",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T07:20:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\Program.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\Program.cs",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:29:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:39:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\appsettings.Production.json",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\appsettings.Production.json",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T09:18:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250116105602_update.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\Migrations\\20250116105602_update.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Data\\Migrations\\20250116105602_update.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\Migrations\\20250116105602_update.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Data\\Migrations\\20250116105602_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:56:02.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T11:27:48.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Core\\TimeSlot.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\TimeSlot.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Core\\TimeSlot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:34:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiningTable.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\DiningTable.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Core\\DiningTable.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\DiningTable.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Core\\DiningTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:32:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResturantController.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\Controllers\\ResturantController.cs",
+              "RelativeDocumentMoniker": "ResturantTableBookingApp.API\\Controllers\\ResturantController.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\ResturantTableBookingApp.API\\Controllers\\ResturantController.cs",
+              "RelativeToolTip": "ResturantTableBookingApp.API\\Controllers\\ResturantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:30:22.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantBranch.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\RestaurantBranch.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Core\\RestaurantBranch.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\RestaurantBranch.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Core\\RestaurantBranch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:27:52.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResturantRepository.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\ResturantRepository.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Data\\ResturantRepository.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\ResturantRepository.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Data\\ResturantRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:31:07.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Models.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\ViewModel\\Models.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Core\\ViewModel\\Models.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\ViewModel\\Models.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Core\\ViewModel\\Models.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:22:20.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResturantTableBookingDbContext.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\ResturantTableBookingDbContext.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Data\\ResturantTableBookingDbContext.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\ResturantTableBookingDbContext.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Data\\ResturantTableBookingDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:22:08.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResturantService.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Service\\ResturantService.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Service\\ResturantService.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Service\\ResturantService.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Service\\ResturantService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:23:13.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250113104419_updateDB.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\Migrations\\20250113104419_updateDB.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Data\\Migrations\\20250113104419_updateDB.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\Migrations\\20250113104419_updateDB.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Data\\Migrations\\20250113104419_updateDB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:07:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IResturantService.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Service\\IResturantService.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Service\\IResturantService.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Service\\IResturantService.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Service\\IResturantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:20:42.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IResturantRepository.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\IResturantRepository.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Data\\IResturantRepository.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\IResturantRepository.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Data\\IResturantRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:20:55.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\Restaurant.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Core\\Restaurant.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Core\\Restaurant.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Core\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:22:51.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResturantTableBookingDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\Migrations\\ResturantTableBookingDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LSC.ResturantTableBookingApp.Data\\Migrations\\ResturantTableBookingDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\Dot-Net-Core-6\\LSC.ResturantTableBookingApp\\LSC.ResturantTableBookingApp.Data\\Migrations\\ResturantTableBookingDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LSC.ResturantTableBookingApp.Data\\Migrations\\ResturantTableBookingDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:10:45.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

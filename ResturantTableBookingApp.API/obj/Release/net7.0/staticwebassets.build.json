@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qzHgBoVp/QfjOM8nAXAuMnzqzXD0b/YfW+9Yihlm1wc=",
+  "Source": "LSC.ResturantTableBookingApp.API",
+  "BasePath": "_content/LSC.ResturantTableBookingApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

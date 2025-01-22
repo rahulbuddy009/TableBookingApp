@@ -1,0 +1,17 @@
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\bin\Release\net7.0\LSC.ResturantTableBookingApp.Data.deps.json
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\bin\Release\net7.0\LSC.ResturantTableBookingApp.Data.runtimeconfig.json
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\bin\Release\net7.0\LSC.ResturantTableBookingApp.Data.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\bin\Release\net7.0\LSC.ResturantTableBookingApp.Data.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\bin\Release\net7.0\LSC.ResturantTableBookingApp.Core.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\bin\Release\net7.0\LSC.ResturantTableBookingApp.Core.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.csproj.AssemblyReference.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.AssemblyInfoInputs.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.AssemblyInfo.cs
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.csproj.CoreCompileInputs.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\refint\LSC.ResturantTableBookingApp.Data.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.ResturantTableBookingApp.Data.genruntimeconfig.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\ref\LSC.ResturantTableBookingApp.Data.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Data\obj\Release\net7.0\LSC.Rest.99B7BA9D.Up2Date

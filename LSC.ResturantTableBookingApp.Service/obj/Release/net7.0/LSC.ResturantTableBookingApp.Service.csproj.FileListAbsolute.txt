@@ -1,0 +1,17 @@
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Service.deps.json
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Service.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Service.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Core.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Data.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Core.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\bin\Release\net7.0\LSC.ResturantTableBookingApp.Data.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.csproj.AssemblyReference.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.AssemblyInfoInputs.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.AssemblyInfo.cs
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.csproj.CoreCompileInputs.cache
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\refint\LSC.ResturantTableBookingApp.Service.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.ResturantTableBookingApp.Service.pdb
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\ref\LSC.ResturantTableBookingApp.Service.dll
+F:\Dot-Net-Core-6\LSC.ResturantTableBookingApp\LSC.ResturantTableBookingApp.Service\obj\Release\net7.0\LSC.Rest.75DE6122.Up2Date
